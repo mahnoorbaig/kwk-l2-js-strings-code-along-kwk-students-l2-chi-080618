@@ -4,4 +4,4 @@ const currentUser = 'Grace Hopper';
 
 const welcomeMessage = 'Welcome to Klossybook, ' + currentUser + '!';
 
-typeof "const"
+"const" excitedWelcomeMessage = welcomeMessage.toUpperCase();
