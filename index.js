@@ -8,5 +8,3 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = 'Welcome, ' + currentUser[0] + '!';
 
-// string = Mahnoor
-// 
